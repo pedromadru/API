@@ -3,6 +3,8 @@
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+![image](https://github.com/user-attachments/assets/6a7b92eb-8031-442f-a037-325593cc8515)
+
 
 # Índice
 
